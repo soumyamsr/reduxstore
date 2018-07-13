@@ -1,2 +1,5 @@
-- Redux Store
-  It is the redux store demo for Jquery / Vanilla JS
+# Redux Store
+
+=============
+
+- It is the redux store demo for Jquery / Vanilla JS
